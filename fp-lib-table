@@ -16,4 +16,7 @@
   (lib (name "GRM155R70J105KA12D")(type "KiCad")(uri "/Users/lawrence/Downloads/GRM155R70J105KA12D")(options "")(descr ""))
   (lib (name "IND_XFL2010_COC")(type "KiCad")(uri "/Users/lawrence/Downloads/IND_XFL2010_COC")(options "")(descr ""))
   (lib (name "J-TE-2-1734592-0")(type "KiCad")(uri "/Users/lawrence/Downloads/J-TE-2-1734592-0")(options "")(descr ""))
+  (lib (name "conn-2pin")(type "KiCad")(uri "${KIPRJMOD}/libraries/PPPC021LFBN_RC/footprints.pretty")(options "")(descr ""))
+  (lib (name "conn-4pin")(type "KiCad")(uri "${KIPRJMOD}/libraries/PPTC041LFBN_RC/footprints.pretty")(options "")(descr ""))
+  (lib (name "conn-5pin")(type "KiCad")(uri "${KIPRJMOD}/libraries/PPTC051LFBN_RC/footprints.pretty")(options "")(descr ""))
 )

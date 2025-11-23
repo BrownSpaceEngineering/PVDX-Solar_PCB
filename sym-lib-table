@@ -11,4 +11,7 @@
   (lib (name "oresat-pcbs")(type "KiCad")(uri "${ORESAT_LIBRARIES}/oresat-symbols/oresat-pcbs.kicad_sym")(options " pwr_sym_only")(descr ""))
   (lib (name "oresat-power")(type "KiCad")(uri "${ORESAT_LIBRARIES}/oresat-symbols/oresat-power.kicad_sym")(options " pwr_sym_only")(descr ""))
   (lib (name "oresat-transistors")(type "KiCad")(uri "${ORESAT_LIBRARIES}/oresat-symbols/oresat-transistors.kicad_sym")(options " pwr_sym_only")(descr ""))
+  (lib (name "conn-4pin")(type "KiCad")(uri "${KIPRJMOD}/libraries/PPTC041LFBN_RC/2025-11-23_21-49-19.kicad_sym")(options "")(descr ""))
+  (lib (name "conn-2pin")(type "KiCad")(uri "${KIPRJMOD}/libraries/PPPC021LFBN_RC/2025-11-23_21-49-44.kicad_sym")(options "")(descr ""))
+  (lib (name "conn-5pin")(type "KiCad")(uri "${KIPRJMOD}/libraries/PPTC051LFBN_RC/2025-11-23_22-06-15.kicad_sym")(options "")(descr ""))
 )
